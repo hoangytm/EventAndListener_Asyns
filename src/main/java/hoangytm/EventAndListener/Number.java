@@ -1,5 +1,5 @@
 package hoangytm.EventAndListener;
-
+@JsonName("hello_JsonName")
 public class Number {
 
     String number;
